@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Register</title>
+        <link rel="stylesheet" href="css/styles.css">
+    </head>
+    <body>
+        <header class="header">
+            <h1>Peliculas</h1>
+        </header>
+        <main class="container">
+            <form class="form register-form">
+                <h1>Registrarse</h1>
+                <p>Crear cuenta para continuar</p>
+                <div class="input-group">
+                    <input autocomplete="off" type="text" placeholder="Usuario" name="user">
+                </div>
+                <div class="input-group">
+                    <input autocomplete="off" type="text" placeholder="Email" name="email">
+                </div>
+                <div class="input-group">
+                    <input autocomplete="off" type="text" placeholder="Numero" name="number">
+                </div>
+                <div class="input-group">
+                    <input autocomplete="off" type="password" placeholder="Contraseña" name="password">
+                </div>
+                <button class="btn-style-1 register-btn">Registrarse</button>
+                <p class="error-message"></p>
+            </form>
+            <article class="container-2">
+                <p>¿Ya tienes cuenta? <a href="/login">Iniciar sesión</a></p>
+            </article>
+        </main>
+        <script src="authentication/register_request.js"></script>
+    </body>
+</html>

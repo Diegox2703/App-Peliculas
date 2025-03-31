@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Peliculas</title>
+        <link rel="stylesheet" href="css/styles.css">
+    </head>
+    <body>
+        <header class="header">
+            <h1>Peliculas</h1>
+        </header>
+        <main class="movies-main-content">
+            <nav class="filter-nav">
+                <div class="filter-container">
+                    <button class="filter">
+                        <img src="icons/tune_icon.svg" alt="icon_tune">
+                        <p>Filter</p>
+                        <input class="toggle-filter-window" type="checkbox">
+                    </button>
+                    <button form="filter-window" class="search_button">
+                        <img src="icons/search_icon.svg" alt="search_icon">
+                    </button>
+                </div>
+                <form id="filter-window" class="filter-window">
+                    <section class="filter-section genre-section">
+                        <h2>Genre</h2>
+                        <ul class="genre-options">
+                            <li class="genre-option">
+                                <label class="checkbox-box">
+                                    <span class="checked"></span>
+                                    <input type="checkbox" name="genre" id="action" class="checkbox-genre" value="Action">
+                                </label>
+                                <label for="action">Action</label>
+                            </li>
+                            <li class="genre-option">
+                                <label class="checkbox-box">
+                                    <input type="checkbox" name="genre" id="horror" class="checkbox-genre" value="Horror">
+                                    <span class="checked"></span>
+                                </label>
+                                <label for="horror">Horror</label>
+                            </li>
+                            <li class="genre-option">
+                                <label class="checkbox-box">
+                                    <input type="checkbox" name="genre" id="drama" class="checkbox-genre" value="Drama">
+                                    <span class="checked"></span>
+                                </label>
+                                <label for="drama">Drama</label>
+                            </li>
+                            <li class="genre-option">
+                                <label class="checkbox-box">
+                                    <input type="checkbox" name="genre" id="sci-fi" class="checkbox-genre" value="Sci-Fi">
+                                    <span class="checked"></span>
+                                </label>
+                                <label for="sci-fi">Sci-Fi</label>
+                            </li>
+                            <li class="genre-option">
+                                <label class="checkbox-box">
+                                    <input type="checkbox" name="genre" id="fantasy" class="checkbox-genre" value="Fantasy">
+                                    <span class="checked"></span>
+                                </label>
+                                <label for="fantasy">Fantasy</label>
+                            </li>
+                            <li class="genre-option">
+                                <label class="checkbox-box">
+                                    <input type="checkbox" name="genre" id="thriller" class="checkbox-genre" value="Thriller">
+                                    <span class="checked"></span>
+                                </label>
+                                <label for="thriller">Thriller</label>
+                            </li>
+                            <li class="genre-option">
+                                <label class="checkbox-box">
+                                    <input type="checkbox" name="genre" id="biography" class="checkbox-genre" value="Biography">
+                                    <span class="checked"></span>
+                                </label>
+                                <label for="biography">Biography</label>
+                            </li>
+                            <li class="genre-option">
+                                <label class="checkbox-box">
+                                    <input type="checkbox" name="genre" id="comedy" class="checkbox-genre" value="Comedy">
+                                    <span class="checked"></span>
+                                </label>
+                                <label for="comedy">Comedy</label>
+                            </li>
+                            <li class="genre-option">
+                                <label class="checkbox-box">
+                                    <input type="checkbox" name="genre" id="crime" class="checkbox-genre" value="Crime">
+                                    <span class="checked"></span>
+                                </label>
+                                <label for="crime">Crime</label>
+                            </li>
+                            <li class="genre-option">
+                                <label class="checkbox-box">
+                                    <input type="checkbox" name="genre" id="history" class="checkbox-genre" value="History">
+                                    <span class="checked"></span>
+                                </label>
+                                <label for="history">History</label>
+                            </li>
+                            <li class="genre-option">
+                                <label class="checkbox-box">
+                                    <input type="checkbox" name="genre" id="animation" class="checkbox-genre" value="Animation">
+                                    <span class="checked"></span>
+                                </label>
+                                <label for="animation">Animation</label>
+                            </li>
+                            <li class="genre-option">
+                                <label class="checkbox-box">
+                                    <input type="checkbox" name="genre" id="tragedy" class="checkbox-genre" value="Tragedy">
+                                    <span class="checked"></span>
+                                </label>
+                                <label for="tragedy">Tragedy</label>
+                            </li>
+                            <li class="genre-option">
+                                <label class="checkbox-box">
+                                    <input type="checkbox" name="genre" id="anime" class="checkbox-genre" value="Anime">
+                                    <span class="checked"></span>
+                                </label>
+                                <label for="anime">Anime</label>
+                            </li>
+                            <li class="genre-option">
+                                <label class="checkbox-box">
+                                    <input type="checkbox" name="genre" id="family" class="checkbox-genre" value="Family">
+                                    <span class="checked"></span>
+                                </label>
+                                <label for="family">Family</label>
+                            </li>
+                            <li class="genre-option">
+                                <label class="checkbox-box">
+                                    <input type="checkbox" name="genre" id="cyberpunk" class="checkbox-genre" value="Cyberpunk">
+                                    <span class="checked"></span>
+                                </label>
+                                <label for="cyberpunk">Cyberpunk</label>
+                            </li>
+                            <li class="genre-option">
+                                <label class="checkbox-box">
+                                    <input type="checkbox" name="genre" id="police" class="checkbox-genre" value="Police">
+                                    <span class="checked"></span>
+                                </label>
+                                <label for="police">Police</label>
+                            </li>
+                        </ul>
+                    </section>
+                    <section  class="filter-section year-section">
+                        <h2>Year</h2>
+                        <ul class="year-options">
+                            <li class="year-option">
+                                <label class="checkbox-box">
+                                    <input type="checkbox" name="year" id="2011-2024" class="checkbox-year" value="2011-2024">
+                                    <span class="checked"></span>
+                                </label>
+                                <label for="2011-2024">2011 - 2024</label>
+                            </li>
+                            <li class="year-option"></li>
+                            <li class="year-option">
+                                <label class="checkbox-box">
+                                    <input type="checkbox" name="year" id="2000-2010" class="checkbox-year" value="2000-2010">
+                                    <span class="checked"></span>
+                                </label>
+                                <label for="2000-2010">2000 - 2010</label>
+                            </li>
+                            <li class="year-option">
+                                <label class="checkbox-box">
+                                    <input type="checkbox" name="year" id="1990-1999" class="checkbox-year" value="1990-1999">
+                                    <span class="checked"></span>
+                                </label>
+                                <label for="1990-1999">1990 - 1999</label>
+                            </li>
+                            <li class="year-option">
+                                <label class="checkbox-box">
+                                    <input type="checkbox" name="year" id="1970-1989" class="checkbox-year" value="1970-1989">
+                                    <span class="checked"></span>
+                                </label>
+                                <label for="1970-1989">1970 - 1989</label>
+                            </li>
+                        </ul>
+                    </section>
+                    <section class="filter-section rate-section">
+                        <h2>Rate</h2>
+                        <ul class="rate-options">
+                            <li class="rate-option">
+                                <label class="radio-container">
+                                    <input type="radio" name="rate" id="mas_de_7" class="radio-rate" value=">">
+                                    <span class="radio-background"></span>
+                                </label>
+                                <label for="mas_de_7">Mas de 7</label>
+                            </li>
+                            <li class="rate-option">
+                                <label class="radio-container">
+                                    <input type="radio" name="rate" id="menos_de_7" class="radio-rate" value="<">
+                                    <span class="radio-background"></span>
+                                </label>
+                                <label for="menos_de_7">Menos de 7</label>
+                            </li>
+                        </ul>
+                    </section>
+                </form>
+            </nav>
+            <div class="movies-container">
+                <% if (movies)  { %>
+                    <% movies.map(movie => { %>
+                        <article class="movie">
+                            <img class="movie-poster" src="<%= movie.poster %>" alt="<%= movie.title %>">
+                            <div class="movie-info">
+                                <h1 class="movie-title"><%= movie.title %></h1>
+                                <p class="movie-description"><%= movie.description %></p>
+                                <section class="ratings">
+                                    <img src="/icons/star.svg" alt="star_icon">
+                                    <p class="rate"><%= movie.rate %></p>
+                                </section>
+                                <section class="year-container">
+                                    <p class="year"><%= movie.year %></p>
+                                </section>
+                                <section class="director-container">
+                                    <p class="director"><%= movie.director %></p>
+                                </section>
+                                <section class="genres-container">
+                                    <p class="genre"><%= movie.genre %></p>
+                                </section>
+                            </div>
+                        </article>
+                    <% }) %>
+                <% } %>
+            </div>
+        </main>
+    </body>
+</html>

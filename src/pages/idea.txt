@@ -1,0 +1,9 @@
+import movies from './movies.json'
+
+let filtratedMovies = []
+
+let genres = ['Action', 'Terror', 'Adventure', 'Comedy']
+
+for(let i = 0; i < genres.length; i++) {
+    filtratedMovies[i] = movies.filter(movie => movie.genres === genres[i])
+}

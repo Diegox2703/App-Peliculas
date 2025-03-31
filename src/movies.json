@@ -1,0 +1,272 @@
+[
+    {
+        "title": "Avatar",
+        "director": "James Cameron",
+        "rate": 7.9,
+        "year": 2009,
+        "description": "A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+        "genre": "Action, Adventure, Fantasy",
+        "poster": "https://m.media-amazon.com/images/I/41kTVLeW1CL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "title": "I Am Legend",
+        "director": "Francis Lawrence",
+        "rate": 7.2,
+        "year": 2007,
+        "description": "Years after a plague kills most of humanity and transforms the rest into monsters, the sole survivor in New York City struggles valiantly to find a cure.",
+        "genre": "Drama, Horror, Sci-Fi",
+        "poster": "https://i.ebayimg.com/images/g/VR0AAOSwppVg5olL/s-l1200.jpg"
+    },
+    {
+        "title": "300",
+        "director": "Zack Snyder",
+        "rate": 7.7,
+        "year": 2006,
+        "description": "King Leonidas of Sparta and a force of 300 men fight the Persians at Thermopylae in 480 B.C.",
+        "genre": "Action, Drama, Fantasy",
+        "poster": "https://c8.alamy.com/comp/2JH2PB7/gerard-butler-poster-300-2006-2JH2PB7.jpg"
+    },
+    {
+        "title": "The Avengers",
+        "director": "Joss Whedon",
+        "rate": 8.1,
+        "year": 2012,
+        "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity.",
+        "genre": "Action, Sci-Fi, Thriller",
+        "poster": "https://i.ebayimg.com/thumbs/images/g/5XwAAOSwmBRmzNva/s-l640.jpg"
+    },
+    {
+        "title": "The Wolf of Wall Street",
+        "director": "Martin Scorsese",
+        "rate": 8.2,
+        "year": 2013,
+        "description": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+        "genre": "Biography, Comedy, Crime",
+        "poster": "https://m.media-amazon.com/images/I/811ysrUHxQS._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "title": "Interstellar",
+        "director": "Christopher Nolan",
+        "rate": 8.6,
+        "year": 2014,
+        "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+        "genre": "Adventure, Drama, Sci-Fi",
+        "poster": "https://static.posters.cz/image/750/posters/interstellar-one-sheet-i23157.jpg"
+    },
+    {
+        "title": "Doctor Strange",
+        "director": "Scott Derrickson",
+        "rate": 7.5,
+        "year": 2016,
+        "description": "After his career is destroyed, a brilliant but arrogant and conceited surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
+        "genre": "Action, Adventure, Fantasy",
+        "poster": "https://m.media-amazon.com/images/I/A12-NFRep6L.jpg"
+    },
+    {
+        "title": "Rogue One: A Star Wars Story",
+        "director": "Gareth Edwards",
+        "rate": 7.8,
+        "year": 2016,
+        "description": "The Rebellion makes a risky move to steal the plans to the Death Star, setting up the epic saga to follow.",
+        "genre": "Action, Adventure, Sci-Fi",
+        "poster": "https://lumiere-a.akamaihd.net/v1/images/5adfd0618fdfb900016b5ca6-image_64bc2f8e.jpeg"
+    },
+    {
+        "title": "Parasite",
+        "director": "Bong Joon Ho",
+        "rate": 8.6,
+        "year": 2019,
+        "description": "All unemployed, Ki-taek and his family take peculiar interest in the wealthy and glamorous Parks, as they ingratiate themselves into their lives and get entangled in an unexpected incident.",
+        "genre": "Comedy, Drama, Thriller",
+        "poster": "https://www.posterist.eu/cdn/shop/files/parasite-movie-poster-v1-01.jpg?v=1698401930"
+    },
+    {
+        "title": "Bad Boys for Life",
+        "director": "Adil El Arbi, Bilall Fallah",
+        "rate": 6.5,
+        "year": 2020,
+        "description": "Marcus and Mike are forced to confront new threats, career changes, and midlife crises as they join the newly created elite team AMMO of the Miami police department to take down the ruthless Armando Armas, the vicious leader of a Miami drug cartel.",
+        "genre": "Action, Comedy, Crime",
+        "poster": "https://pics.filmaffinity.com/Bad_Boys_for_Life-343590773-large.jpg"
+    },
+    {
+        "title": "Game of Thrones",
+        "director": "David Benioff, D. B. Weiss",
+        "rate": 9.5,
+        "year": 2011,
+        "description": "While a civil war brews between several noble families in Westeros, the children of the former rulers of the land attempt to rise up to power. Meanwhile a forgotten race, bent on destruction, plans to return after thousands of years in the North.",
+        "genre": "Adventure, Drama, Fantasy",
+        "poster": "https://hips.hearstapps.com/hmg-prod/images/gt8-key-fb-9x16-dani-1551376577.jpg"
+    },
+    {
+        "title": "Vikings",
+        "director": "Helen Shaver, Daniel Grou, Kari Skogland, Kelly Makin",
+        "rate": 8.6,
+        "year": 2013,
+        "description": "The world of the Vikings is brought to life through the journey of Ragnar Lothbrok, the first Viking to emerge from Norse legend and onto the pages of history - a man on the edge of myth.",
+        "genre": "Action, Drama, History",
+        "poster": "https://imaginus.ca/cdn/shop/products/81kVdgR745L._AC_SL1500.jpg?v=1642799943"
+    },
+    {
+        "title": "Breaking Bad",
+        "director": "Vince Gilligan,  Michael Slovis",
+        "rate": 9.5,
+        "year": 2008,
+        "description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's financial future.",
+        "genre": "Crime, Drama, Thriller",
+        "poster": "https://m.media-amazon.com/images/I/91RNSMNJlsL._AC_SL1500_.jpg"
+    },
+    {
+        "title": "Barry",
+        "director": "Alec Berg",
+        "rate": 8.8,
+        "year": 2018,
+        "description": "Barry Berkman, a depressed ex-military man turned hitman from the American Midwest, travels to Los Angeles to carry out a job. There he meets a group of aspiring actors from the Los Angeles theater scene and discovers that he wants to leave his criminal career behind and start a new life as an aspiring actor.",
+        "genre": "Comedy, Thriller, Action",
+        "poster": "https://es.web.img3.acsta.net/r_1280_720/pictures/22/04/25/22/03/1012776.jpg"
+    },
+    {
+        "title": "Spider-Man",
+        "director": "Sam Raimi",
+        "rate": 8.0,
+        "year": 2002,
+        "description": "A regular school boy is bitten by a spider while on a raid in a museum, some time later, he would realize that he now has super powers and would become Spider-Man.",
+        "genre": "Action, Sci-Fi, Adventure",
+        "poster": "https://img.lazcdn.com/g/p/6d5c474687f51bfeb285104476eafd21.jpg_720x720q80.jpg"
+    },
+    {
+        "title": "Spider-Man 2",
+        "director": "Sam Raimi",
+        "rate": 9.5,
+        "year": 2004,
+        "description": "Peter Parker struggles professionally and personally because of his commitments as Spider-Man, However, his friend and professor, Doctor Octopus, becomes a villain and now he will have to become Spider-Man again.",
+        "genre": "Action, Sci-Fi, Adventure",
+        "poster": "https://image.tmdb.org/t/p/original/myvj6Slsv3wWtDKKS2IOmbqBTCa.jpg"
+    },
+    {
+        "title": "Spider-Man 3",
+        "director": "Sam Raimi",
+        "rate": 6.2,
+        "year": 2007,
+        "description": "A strange symbiote from another world joins Peter Parker, causing him to experience inner turmoil as he faces new villains, temptations and revenge.",
+        "genre": "Action, Sci-Fi, Adventure",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg"
+    },
+    {
+        "title": "Toy Story",
+        "director": "John Lasseter",
+        "rate": 8.3,
+        "year": 1995,
+        "description": "A toy cowboy finds himself jealous and threatened when a new toy, a Space Ranger, becomes the favorite of the boy to whom it belongs.",
+        "genre": "Animation, Comedy, Action, Family",
+        "poster": "https://i5.walmartimages.com/asr/807df29e-a0df-45c4-80fc-13e3a2a5d566.878378105d1bcc5576af7e9fdba4333e.jpeg"
+    },
+    {
+        "title": "The Guardian",
+        "director": "William Friedkin",
+        "rate": 5.4,
+        "year": 1990,
+        "description": "Young married couple Phillip and Kate Sterling, who have a newborn son named Jake, don't realize that their new nanny Camilla is a magical nymph who sacrifices infants to an evil tree.",
+        "genre": "Horror, Thriller",
+        "poster": "https://m.media-amazon.com/images/M/MV5BODhmNTNjMWMtZWVkYS00MjBlLWFiYTMtMGU0OGVjZDBlMmQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+    },
+    {
+        "title": "Leatherface: Texas Chainsaw Massacre III",
+        "director": "Jeff Burr",
+        "rate": 5.0,
+        "year": 1990,
+        "description": "A California couple and a survivalist encounter Leatherface and his family.",
+        "genre": "Horror, Thriller, Tragedy",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzcyMjRmZGUtNmVhMS00NzkwLTg1MTEtMmRlMDM3ZWRiNWYzXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Anaconda",
+        "director": "Luis Llosa",
+        "rate": 4.9,
+        "year": 1997,
+        "description": "A 'National Geographic' film crew is taken hostage by an insane hunter, who forces them along on his quest to capture the world's largest - and deadliest - snake.",
+        "genre": "Horror, Adventure. Drama",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmU2ZGYyZDAtZGM3My00NjQ4LTlmZmQtNzY4OGRlNDFjNTE4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Fear",
+        "director": "James Foley",
+        "rate": 6.2,
+        "year": 1996,
+        "description": "When Nicole met handsome, charming, affectionate David, he was everything. It seemed perfect, but soon she sees that David has a darker side. And his adoration turns to obsession, their dream into a nightmare, and her love into fear.",
+        "genre": "Horror, Thriller, Drama",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmNiNDEyYjUtN2YzYi00MTBlLWIzNzYtOGM2YWUzNTY4ZDNlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "title": "The Godfather",
+        "director": "Francis Ford Coppola",
+        "rate": 9.2,
+        "year": 1972,
+        "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "genre": "Tragedy, Crime, Drama",
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "title": "Top Gun",
+        "director": "Tony Scott",
+        "rate": 6.9,
+        "year": 1986,
+        "description": "The Top Gun Naval Fighter Weapons School is where the best of the best train to refine their elite flying skills. When hotshot fighter pilot Maverick is sent to the school, his reckless attitude and cocky demeanor put him at odds with the other pilots, especially the cool and collected Iceman.",
+        "genre": "Action, Drama",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjQxYTA3ODItNzgxMy00N2Y2LWJlZGMtMTRlM2JkZjI1ZDhhXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "title": "Indiana Jones and the Temple of Doom",
+        "director": "Steven Spielberg",
+        "rate": 7.5,
+        "year": 1984,
+        "description": "In 1935, Indiana Jones is tasked by Indian villagers with reclaiming a rock stolen from them by a secret cult beneath the catacombs of an ancient palace.",
+        "genre": "Action, Adventure",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzgzMTIzNzctNmNiZC00ZDYyLWJjNzktMmQ2MDM2ZDkwZGVhXkEyXkFqcGdeQXVyMjM4MzQ4OTQ@._V1_.jpg"
+    },
+    {
+        "title": "Kiki's Delivery Service",
+        "director": "Hayao Miyazaki",
+        "rate": 7.8,
+        "year": 1989,
+        "description": "Along with her black cat Jiji, Kiki settles in a seaside town and starts a high-flying delivery service. Here begins her magical encounter with independence and responsibility, making lifelong friends and finding her place in the world.",
+        "genre": "Anime, Animation, Family, Fantasy",
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2QyZmFjMTEtZjdjYy00NmE4LTkzZTgtMzhkNjFlMGEwNTY5L2ltYWdlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+    },
+    {
+        "title": "Jaws",
+        "director": "Steven Spielberg",
+        "rate": 8.1,
+        "year": 1975,
+        "description": "When a killer shark unleashes chaos on a beach community off Cape Cod, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.",
+        "genre": "Adventure, Drama, Thriller",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjViNDQzNmUtYzkxZi00NTk5LTljMmItYjJlZmZkODIxNjU1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "title": "The Terminator",
+        "director": "James Cameron",
+        "rate": 8.1,
+        "year": 1984,
+        "description": "The Terminator, a cyborg assassin from the future, attempts to find and kill Sarah Connor, a waitress who is destined to give birth to a man who will save humankind from extinction.",
+        "genre": "Action, Sci-Fi, Adventure, Cyberpunk",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "title": "My Neighbor Totoro",
+        "director": "Hayao Miyazaki",
+        "rate": 8.1,
+        "year": 1988,
+        "description": "When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.",
+        "genre": "Anime, Animation, Family, Fantasy",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYWM3MDE3YjEtMzIzZC00ODE5LTgxNTItNmUyMTBkM2M2NmNiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "title": "Beverly Hills Cop",
+        "director": "Martin Brest",
+        "rate": 7.4,
+        "year": 1984,
+        "description": "A freewheeling Detroit cop pursuing a murder investigation finds himself dealing with the very different culture of Beverly Hills.",
+        "genre": "Action, Comedy, Crime, Police",
+        "poster": "https://i.ebayimg.com/images/g/u5sAAOSw3ctjD10K/s-l1200.jpg"
+    }
+]
