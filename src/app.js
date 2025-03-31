@@ -6,7 +6,6 @@ import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import validation from "./routes/validation.js";
 import filterMovies from "./filter/filter.js"
-import cors from 'cors'
 
 // Server //
 
@@ -14,11 +13,6 @@ const app = express();
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
-app.use(cors({
-  origin: "http://localhost:3000", 
-  methods: ["GET", "POST", "PUT", "DELETE"], 
-  credentials: true 
-}));
 app.use(express.static(join(__dirname, "public")));
 app.set("view engine", "ejs");
 app.set("views", join(__dirname, "views"));
