@@ -5,7 +5,7 @@ async function sendRequest (e) {
 
     const {user, password} = e.target.elements
     
-    const res = await fetch('http://localhost:3000/login', {
+    const res = await fetch('/login', {
         method: 'POST',
         body: JSON.stringify({
             user: user.value,

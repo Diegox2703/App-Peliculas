@@ -5,7 +5,7 @@ async function sendRequest (e) {
 
     const {user, email, number, password} = e.target.elements
 
-    const res = await fetch('http://localhost:3000/register', {
+    const res = await fetch('/register', {
         method: 'POST',
         body: JSON.stringify({
             user: user.value,
