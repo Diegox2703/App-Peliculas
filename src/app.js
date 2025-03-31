@@ -15,7 +15,7 @@ const app = express();
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
 app.use(cors({
-  origin: "https://app-peliculas-production.up.railway.app/", 
+  origin: "http://localhost:3000", 
   methods: ["GET", "POST", "PUT", "DELETE"], 
   credentials: true 
 }));
